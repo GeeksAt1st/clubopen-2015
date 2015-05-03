@@ -525,7 +525,8 @@
             <para OpticalMargins="0" MinWordTrack="1" MinGlyphShrink="1" MaxGlyphExtend="1" wordTrack="1"/>
             <ITEXT FONT="Source Han Sans CN Normal" FONTSIZE="60" SCALEH="100" CH="    ·佟辉 (@爱开源魅影)"/>
             <para OpticalMargins="0" MinWordTrack="1" MinGlyphShrink="1" MaxGlyphExtend="1" wordTrack="1"/>
-            <ITEXT FONT="Source Han Sans CN Normal" FONTSIZE="60" SCALEH="100" CH="    ·张均凯 (@七只小鸡1997)"/>
+            <ITEXT FONT="Source Han Sans CN Normal" FONTSIZE="60" SCALEH="100" CH="    ·张钧凯 (@七只小鸡1997"/>
+            <ITEXT wordTrack="1" CH=")"/>
             <para OpticalMargins="0" MinWordTrack="1" MinGlyphShrink="1" MaxGlyphExtend="1" wordTrack="1"/>
             <ITEXT FONT="Source Han Sans CN Normal" FONTSIZE="60" SCALEH="100" CH="    ·冯子晋 (@某烧饼)"/>
             <para OpticalMargins="0" MinWordTrack="1" MinGlyphShrink="1" MaxGlyphExtend="1" wordTrack="1"/>
